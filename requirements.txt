@@ -1,3 +1,2 @@
 logging~=0.4.9.6
 msal~=1.31.1
-setuptools~=75.6.0

@@ -4,7 +4,6 @@ setup(
     name='SimpleGraphApi',
     version='0.0.1',
     packages=['msgraph'],
-    package_dir={'msgraph': 'src/msgraph'},
     url='',
     license='',
     author='lucasjkr',

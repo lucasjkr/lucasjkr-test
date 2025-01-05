@@ -10,7 +10,7 @@ setup(
         'Intended Audience :: Information Technology',
         'Intended Audience :: System Administrators',
     ],
-    packages=['SimpleGraphApi'],
+    # packages=['SimpleGraphApi'],
     version='0.0.1',
     install_requires=[
         'logging',

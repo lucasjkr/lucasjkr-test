@@ -13,8 +13,8 @@ setup(
     # packages=['SimpleGraphApi'],
     version='0.0.1',
     install_requires=[
-        'logging',
-        'msal'
+        'logging~=0.4.9.6',
+        'msal~=1.31.1'
     ],
     url='',
     license='',

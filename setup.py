@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='SimpleGraphApi',
+    name='lucasjkr',
     author='lucasjkr',
     author_email='',
     description='',
@@ -10,7 +10,7 @@ setup(
         'Intended Audience :: Information Technology',
         'Intended Audience :: System Administrators',
     ],
-    # packages=['SimpleGraphApi'],
+    packages=['SimpleGraphApi'],
     version='0.0.1',
     install_requires=[
         'logging~=0.4.9.6',

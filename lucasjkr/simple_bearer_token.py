@@ -1,7 +1,6 @@
 import logging, msal
 
-
-def bearer_token(client_id, tenant_id, secret, scopes):
+def bearer_token(client_id, secret, tenant_id, scopes):
     # code for retrieving a Graph token, slightly adapted from Microsofts example code
     app = msal.ConfidentialClientApplication(
         client_id,
